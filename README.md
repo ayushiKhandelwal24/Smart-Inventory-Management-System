@@ -1,7 +1,7 @@
 # Smart Inventory Management System
 
 ## 📌 Description
-This is a C++ based Smart Inventory Management System using file handling.
+This is a Pyhton based Smart Inventory Management System using file handling.
 
 ## 🚀 Features
 - Add new product
@@ -11,7 +11,7 @@ This is a C++ based Smart Inventory Management System using file handling.
 - Stock management
 
 ## 💻 Technologies Used
-- C++
+- Python
 - File Handling
 
 ## 👩‍💻 Author
